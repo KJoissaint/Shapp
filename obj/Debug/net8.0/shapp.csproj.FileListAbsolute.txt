@@ -1,0 +1,15 @@
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\bin\Debug\net8.0\shapp.exe
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\bin\Debug\net8.0\shapp.deps.json
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\bin\Debug\net8.0\shapp.runtimeconfig.json
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\bin\Debug\net8.0\shapp.dll
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\bin\Debug\net8.0\shapp.pdb
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\shapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\shapp.AssemblyInfoInputs.cache
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\shapp.AssemblyInfo.cs
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\shapp.csproj.CoreCompileInputs.cache
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\shapp.sourcelink.json
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\shapp.dll
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\refint\shapp.dll
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\shapp.pdb
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\shapp.genruntimeconfig.cache
+C:\Users\joiss\OneDrive\Bureau\git projects\sharptest1\shapp\obj\Debug\net8.0\ref\shapp.dll
