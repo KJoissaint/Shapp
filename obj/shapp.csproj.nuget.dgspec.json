@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\shapp\\shapp.csproj": {}
+    "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\Shapp\\shapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\shapp\\shapp.csproj": {
+    "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\Shapp\\shapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\shapp\\shapp.csproj",
+        "projectUniqueName": "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\Shapp\\shapp.csproj",
         "projectName": "shapp",
-        "projectPath": "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\shapp\\shapp.csproj",
+        "projectPath": "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\Shapp\\shapp.csproj",
         "packagesPath": "C:\\Users\\joiss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\shapp\\obj\\",
+        "outputPath": "C:\\Users\\joiss\\OneDrive\\Bureau\\git projects\\sharptest1\\Shapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
