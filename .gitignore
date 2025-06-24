@@ -1,0 +1,57 @@
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Auto-generated files
+*.dbmdl
+*.log
+*.tlog
+
+# Package management
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# EF Core Migrations
+**/Migrations/*.cs
+**/Migrations/*.Designer.cs
+**/Migrations/*.resx
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Dotnet-specific
+*.dotCover
+*.coverage
+*.orig
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test result files
+TestResults/

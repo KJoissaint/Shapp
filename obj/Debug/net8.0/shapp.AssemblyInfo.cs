@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("shapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3858153e55db4bfd51f96134b2ffb926485aea81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b96d852b26b2c429ba59a30f72bfecc4cca8d8f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("shapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("shapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
